@@ -1,0 +1,4 @@
+smoking_history:
+  instructions: "For the property, smoking_history, use of tobacco is the same as smoking."
+patient_age:
+  instructions: "For the property, patient_age, yo is the same as years old."

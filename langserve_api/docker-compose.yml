@@ -1,0 +1,10 @@
+version: "3.3"
+
+services:
+  ali_langserve_cohere_api:
+    container_name: ali_langserve_cohere_api
+    build: .
+    ports:
+      - 80:8080
+    restart: on-failure
+    
