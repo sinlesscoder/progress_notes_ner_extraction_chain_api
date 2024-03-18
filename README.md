@@ -48,4 +48,4 @@ The Clinical Extraction REST API Service is designed to streamline the extractio
     - Tableau / PowerBI Dashboard
     - Web Dashboard Application (e.g. Vizro, Streamlit)
 
-3. Include a more contextual driven workflow for really complicated medical terminology by integrating the system with vector databases / knowledge graphs
+3. Include a more contextual driven workflow for really complicated medical terminology by integrating the system with vector databases / knowledge graphs.
