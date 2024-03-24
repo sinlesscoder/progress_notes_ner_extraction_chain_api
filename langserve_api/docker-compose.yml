@@ -1,5 +1,5 @@
 version: "3.6"
-
+ 
 services:
   ali_langserve_cohere_api:
     container_name: ali_langserve_cohere_api
