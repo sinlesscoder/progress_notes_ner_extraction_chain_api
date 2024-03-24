@@ -13,7 +13,7 @@ from sqlalchemy.engine import Engine
 
 # JSON
 sql_json_path = getcwd() + "/postgres_creds.json"
-openai_json_path = getcwd() + "/openai_api_key.json" #"/home/aahmed/Pathrise_DEDS_Ali_Tutorials/src/frameworks/generative_ai/llms/langchain/openai_api_key.json"
+openai_json_path = getcwd() + "/openai_api_key.json" 
 # Get YAML file
 yml_path = getcwd() + '/prompt_workflow/instructions.yml'
 
